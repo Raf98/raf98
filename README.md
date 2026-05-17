@@ -15,11 +15,6 @@
     <img height="200em" src="https://github-readme-stats-two-nu-73.vercel.app/api?username=raf98&show_icons=true&theme=dark"/>
 </div>
 
-### Contact
-<a href="https://www.linkedin.com/in/rafael-rutz-dos-santos-ba4228199/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"/>
-</a>
-
 ### Languages
 
 <div>
